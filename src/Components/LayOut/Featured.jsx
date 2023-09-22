@@ -15,7 +15,7 @@ function Featured() {
     <div>
       <CataTitle title={"Featured Jobs"}></CataTitle>
       <div className="grid grid-cols-2 gap-7">
-        {featuredData.slice(0 - dataLengt).map((item) => (
+        {featuredData.slice(0, dataLengt).map((item) => (
           <FeaturedCard key={item.id} featuredData={item}></FeaturedCard>
         ))}
       </div>

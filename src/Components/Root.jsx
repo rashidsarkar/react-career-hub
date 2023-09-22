@@ -7,7 +7,9 @@ function Root() {
     <>
       <div className="w-full max-w-screen-xl p-4 py-6 mx-auto">
         <Navbar></Navbar>
-        <Outlet></Outlet>
+        <div className="min-h-screen">
+          <Outlet></Outlet>
+        </div>
       </div>
       <Fotorr></Fotorr>
     </>
