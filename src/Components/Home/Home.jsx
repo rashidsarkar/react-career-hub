@@ -1,3 +1,4 @@
+import Fotorr from "../Footer/Fotorr";
 import Baner from "../LayOut/Baner";
 import Featured from "../LayOut/Featured";
 import JobCategory from "../LayOut/JobCategory";
@@ -10,6 +11,7 @@ function Home() {
       <Baner></Baner>
       <JobCategory></JobCategory>
       <Featured></Featured>
+      <Fotorr></Fotorr>
     </div>
   );
 }
