@@ -10,7 +10,7 @@ function Featured() {
       .then((res) => res.json())
       .then((data) => setFeaturedData(data));
   }, []);
-  console.log(dataLengt, featuredData.length);
+
   return (
     <div>
       <CataTitle title={"Featured Jobs"}></CataTitle>

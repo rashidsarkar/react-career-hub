@@ -9,9 +9,10 @@ function FeaturedCard({ featuredData }) {
     company_name,
     remote_or_onsite,
     job_type,
+    id,
     salary,
   } = featuredData;
-  console.log(job_title);
+
   return (
     <div className="w-[648px]  mx-auto">
       <div className=" w-[355px] mx-auto p-4 shadow-xl">
@@ -41,7 +42,10 @@ function FeaturedCard({ featuredData }) {
             <p>{salary}</p>
           </div>
         </div>
-        <Link className="font-semibold text-white btn bg-gradient-to-r from-blue-500 to-purple-700">
+        <Link
+          to={`/job-details/${id}`}
+          className="font-semibold text-white btn bg-gradient-to-r from-blue-500 to-purple-700"
+        >
           View Details
         </Link>
       </div>

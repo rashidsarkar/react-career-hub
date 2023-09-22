@@ -1,3 +1,4 @@
+import { Outlet } from "react-router-dom";
 import Fotorr from "../Footer/Fotorr";
 import Baner from "../LayOut/Baner";
 import Featured from "../LayOut/Featured";
@@ -7,11 +8,12 @@ import Navbar from "../Navbar/Navbar";
 function Home() {
   return (
     <div>
-      <Navbar></Navbar>
-      <Baner></Baner>
-      <JobCategory></JobCategory>
-      <Featured></Featured>
-      <Fotorr></Fotorr>
+      <Outlet></Outlet>
+      <div className="w-full max-w-screen-xl p-4 py-6 mx-auto ">
+        <Baner></Baner>
+        <JobCategory></JobCategory>
+        <Featured></Featured>
+      </div>
     </div>
   );
 }
