@@ -15,7 +15,7 @@ function FeaturedCard({ featuredData }) {
   return (
     <div className="w-[648px]  mx-auto">
       <div className=" w-[355px] mx-auto p-4 shadow-xl">
-        <div>
+        <div className="my-3">
           <img src={logo} alt="" />
         </div>
         {/* name  */}
