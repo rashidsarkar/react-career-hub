@@ -1,117 +1,116 @@
 [
-     {
-      "id": 1,
-      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-      "job_title": "Technical Database Engineer",
-      "company_name": "Google LLC",
-      "remote_or_onsite": "Remote",
-      "location": "Dhaka, Bangladesh",
-      "job_type": "Full Time",
-      "salary": "100k-150k",
-      "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-      "educational_requirements": "Bachelor degree to complete any reputational university.",
-      "experiences": "2-3 Years in this field.",
-      "contact_information": {
-        "phone": "01750-00 00 00",
-        "email": "info@gmail.com",
-        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-      }
-    },
-    {
-        "id": 2,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 3,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 4,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Google LLC",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 5,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
-        "job_title": "Technical Database Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 6,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      }
-  
-  ]
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "Mountain View, California, USA",
+    "job_type": "Full Time",
+    "salary": "$120,000 - $160,000 per year",
+    "job_description": "Google Inc. is seeking a Technical Database Engineer to design, maintain, and optimize database systems. You will ensure data reliability, availability, and performance for our organization's applications and services.",
+    "job_responsibility": "As a Technical Database Engineer, you will collaborate closely with cross-functional teams, including software development, system administration, and data analysis, to ensure that our database systems meet business and technical requirements. Effective communication and gathering feedback from team members are key skills for this role.",
+    "educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+    "experiences": "3-5 years of experience in database engineering.",
+    "contact_information": {
+      "phone": "+1 (123) 456-7890",
+      "email": "info@google.com",
+      "address": "123 Main St, Mountain View, CA 94043, USA"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Palo Alto, California, USA",
+    "job_type": "Full Time",
+    "salary": "$130,000 - $170,000 per year",
+    "job_description": "Tesla Inc. is looking for a Software Engineer to develop cutting-edge software solutions for electric vehicles and energy products. You will contribute to our mission of accelerating the world's transition to sustainable energy.",
+    "job_responsibility": "As a Software Engineer, you will collaborate closely with hardware engineers, firmware developers, and data scientists at Tesla Inc. to create innovative software solutions. Effective communication and gathering feedback from team members are essential for success in this role.",
+    "educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+    "experiences": "3-5 years of software development experience.",
+    "contact_information": {
+      "phone": "+1 (123) 456-7890",
+      "email": "info@tesla.com",
+      "address": "789 Oak Ave, Palo Alto, CA 94304, USA"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "Los Gatos, California, USA",
+    "job_type": "Full Time",
+    "salary": "$140,000 - $180,000 per year",
+    "job_description": "Netflix Inc. is looking for a Senior Product Designer to create exceptional user experiences for our streaming platform. You will focus on improving user interfaces and enhancing the overall user journey.",
+    "job_responsibility": "As a Senior Product Designer, you will collaborate closely with product managers, engineers, and user researchers at Netflix Inc. to shape the future of user experience. Effective communication and gathering feedback from team members are essential for success in this role.",
+    "educational_requirements": "Bachelor's degree in Design or a related field.",
+    "experiences": "5+ years of experience in UX/UI design.",
+    "contact_information": {
+      "phone": "+1 (123) 456-7890",
+      "email": "info@netflix.com",
+      "address": "456 Elm St, Los Gatos, CA 95032, USA"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/6J1HctL/pexels-sami-aksu-10003548.jpg",
+    "job_title": "iOS App Developer",
+    "company_name": "Apple Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Cupertino, California, USA",
+    "job_type": "Full Time",
+    "salary": "$140,000 - $180,000 per year",
+    "job_description": "Apple Inc. is seeking an iOS App Developer to design and develop innovative mobile applications for iOS devices. You will be part of a creative team shaping the future of mobile technology.",
+    "job_responsibility": "As an iOS App Developer, you will collaborate closely with designers and engineers at Apple Inc. to create user-friendly and high-performance mobile apps. Effective communication and a passion for Apple's products are essential for success in this role.",
+    "educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+    "experiences": "3-5 years of iOS app development experience.",
+    "contact_information": {
+      "phone": "+1 (123) 456-7890",
+      "email": "info@apple.com",
+      "address": "1 Apple Park Way, Cupertino, CA 95014, USA"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/9GPS513/pexels-bastian-riccardi-9149416.jpg",
+    "job_title": "Marketing Manager",
+    "company_name": "The Coca-Cola Company",
+    "remote_or_onsite": "Onsite",
+    "location": "Atlanta, Georgia, USA",
+    "job_type": "Full Time",
+    "salary": "$120,000 - $160,000 per year",
+    "job_description": "The Coca-Cola Company is looking for a Marketing Manager to develop and implement marketing strategies for our iconic beverage brands. You will play a crucial role in driving brand growth and consumer engagement.",
+    "job_responsibility": "As a Marketing Manager, you will collaborate closely with cross-functional teams at The Coca-Cola Company to execute marketing campaigns and initiatives. Effective communication and a passion for marketing are key attributes for this role.",
+    "educational_requirements": "Bachelor's degree in Marketing or a related field.",
+    "experiences": "5+ years of marketing experience.",
+    "contact_information": {
+      "phone": "+1 (123) 456-7890",
+      "email": "info@coca-cola.com",
+      "address": "1 Coca-Cola Plaza, Atlanta, GA 30313, USA"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/KrZ516m/pexels-dids-1769735.jpg",
+    "job_title": "Software Development Engineer",
+    "company_name": "Amazon.com, Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Seattle, Washington, USA",
+    "job_type": "Full Time",
+    "salary": "$120,000 - $160,000 per year",
+    "job_description": "Amazon.com, Inc. is seeking a Software Development Engineer to work on innovative projects that impact millions of customers worldwide. You will be part of a dynamic and diverse team.",
+    "job_responsibility": "As a Software Development Engineer, you will collaborate closely with product managers and software developers at Amazon.com, Inc. to design, develop, and deploy software solutions. Effective communication and a strong problem-solving mindset are essential for success in this role.",
+    "educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+    "experiences": "3-5 years of software development experience.",
+    "contact_information": {
+      "phone": "+1 (123) 456-7890",
+      "email": "info@amazon.com",
+      "address": "410 Terry Ave N, Seattle, WA 98109, USA"
+    }
+  }
+]

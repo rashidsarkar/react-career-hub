@@ -4,6 +4,7 @@ import { AiOutlineDollar } from "react-icons/Ai";
 import { newItemAdd } from "../../../public/utily";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import UnderNav from "../UnderNav/UnderNav";
 
 function JobDetails() {
   const jobs = useLoaderData();
@@ -50,23 +51,8 @@ function JobDetails() {
         pauseOnHover
         theme="colored"
       />
-      <h2 className="mx-auto text-2xl font-semibold text-center ">
-        Job Details
-      </h2>
 
-      <div>
-        <img
-          className="relative top-6 left-0 w-[300px]"
-          src="/public/assets/images/bg1.png"
-          alt=""
-        />
-
-        <img
-          className="relative top-[-277px] left-[994px] w-[300px]"
-          src="/public/assets/images/bg2.png"
-          alt=""
-        />
-      </div>
+      <UnderNav title={"Job Details"}></UnderNav>
       <div className="grid grid-cols-4">
         <div className="col-span-3 left">
           <div className="job_decpt w-[800px] my-3">

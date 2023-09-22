@@ -33,7 +33,7 @@ function Navbar() {
                 <Link to="/applyedJob">Applied Jobs</Link>
               </li>
               <li>
-                <Link>Blog</Link>
+                <Link to="/BlogPage">Blog</Link>
               </li>
             </ul>
           </div>
@@ -48,7 +48,7 @@ function Navbar() {
               <Link to="/applyedJob">Applied Jobs</Link>
             </li>
             <li>
-              <Link>Blog</Link>
+              <Link to="/BlogPage">Blog</Link>
             </li>
           </ul>
         </div>
